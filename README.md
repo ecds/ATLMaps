@@ -18,6 +18,7 @@ Map ledgend "negro" residential areas of Atlanta The ATLMaps platform, a collabo
 ATLMaps is made possible with the generous support of Georgia State University, Emory University, and the Knight Foundation. That support began with two consecutive CITIES awards for funding by Georgia State in 2012 and 2013, continuing support from Emory University Libraries & Information Technology and the Emory Center for Digital Scholarship, and a Knight Foundation Knight News Challenge Award in 2016. If you or your organization like the work we're doing and have an idea about how to support and further it, please get in touch!
 
 ###Team
+
 #### Brennan Collins
 Brennan is the Associate Director of Writing Across the Curriculum and the Center for Excellence in Teaching and Learning at Georgia State University. The interdisciplinary nature and technology focus of these programs allows him to work with a diverse faculty in exploring inventive pedagogies. He is particularly interested in creating interinstitutional Atlanta projects and platforms to develop student critical thinking and opportunities for community engagement.
 
