@@ -1,8 +1,8 @@
-#Press, Publications, and Public Recognition
+# Press, Publications, and Public Recognition
 
 Since 2011, when the project was initially conceived, ATLmaps has been part of conversations about the mapping in the humanities, historic preservation, and community memory.
 
-##Publications
+## Publications
 
 Collins, Brennan, 2016, August. Access and Usability:Connecting Archives to Platforms. in media res http://mediacommons.futureofthebook.org/imr/2016/08/29/access-and-usability-connecting-archives-platforms
 
@@ -22,7 +22,7 @@ Wilson, K., 2016. News-Georgia State University. Georgia Library Quarterly, 53(3
 McGinn, E. and Battles, J., 2016. New Director’s Grant: University of Georgia. Digital Humanities Lab Initiative.
 
 
-##Presentations*
+## Presentations*
 
 Brennan Collins, ATLmaps workshop, Teaching Atlanta Digitally, Emory, winter 2017
 
@@ -60,7 +60,7 @@ Jack Reed, Stuart Varner, Brennan Collins, Ben Miller. "Geospatial Storytelling 
 Brennan Collins, Joe Hurley, Sarah Melton. "Carterette Webinar: ATL Maps: Using Archival Resources to Visualize History." Georgia Library Association. May 2016. <https://vimeo.com/168099815>
 
 
-##Press and Public Recognition
+## Press and Public Recognition
 
 http://www.niemanlab.org/2016/06/the-dallas-morning-news-and-dallas-public-library-are-teaming-up-to-offer-workshops-for-students/
 
